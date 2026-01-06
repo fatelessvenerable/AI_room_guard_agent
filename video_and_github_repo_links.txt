@@ -1,0 +1,15 @@
+the links for the videos
+
+1. demo video:
+
+https://drive.google.com/file/d/171dNHXwYJxIV4NB6TBJpw3M1FCYS_05x/view?usp=sharing
+
+
+
+2. code explaination video:
+
+https://drive.google.com/file/d/1dKJFB9svGhfQk4gRgzV9NYpx6hybUYcC/view?usp=sharing
+
+3. GitHub repo link:
+
+https://github.com/hardikjangir/AI_room_guard_with_whatsapp_alerts/blob/main/hardik_archi_a2.py
