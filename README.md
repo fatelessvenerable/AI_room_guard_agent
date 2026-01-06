@@ -52,6 +52,7 @@ It is designed to work in real time using pre-generated embeddings and live dete
    ```bash
    python facial_feature_embedding.py
   to generate embeddings in trusted_embeddings.pkl
+  
 3. Run the main AI guard script:
    ```bash
    python hardik_archi_a2.py
